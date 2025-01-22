@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">The industry talks focused on the skills needed for success in tech and entrepreneurship. Mr. Mohd Hakimi shared his experience, highlighting the importance of programming, problem-solving, and staying updated with new technologies like AI. Mr. Nik Habibullah talked about building a career as an entrepreneur, stressing creativity, networking, and strong fundamentals. Both speakers encouraged continuous learning, stepping out of comfort zones, and staying focused on personal growth and goals.</h6>
+<h4 align="left">The industry talks focused on the skills needed for success in tech and entrepreneurship. Mr. Mohd Hakimi shared his experience, highlighting the importance of programming, problem-solving, and staying updated with new technologies like AI. Mr. Nik Habibullah talked about building a career as an entrepreneur, stressing creativity, networking, and strong fundamentals. Both speakers encouraged continuous learning, stepping out of comfort zones, and staying focused on personal growth and goals.</h6>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Reflection</h3>
+<h2 align="left">Reflection</h3>
 
 ###
 
@@ -44,6 +44,6 @@
 
 ###
 
-<h6 align="left">The talks taught me the importance of balancing technical and soft skills, staying updated with new technologies, and starting to network early. I realized the value of continuous learning, hands-on experience, and defining my own path to success, whether in a career or entrepreneurship.</h6>
+<h4 align="left">The talks taught me the importance of balancing technical and soft skills, staying updated with new technologies, and starting to network early. I realized the value of continuous learning, hands-on experience, and defining my own path to success, whether in a career or entrepreneurship.</h6>
 
 ###
